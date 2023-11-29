@@ -2,7 +2,6 @@ package principles.openClosed;
 
 /**
  * 测试类
- * 开闭原则：对扩展开放，对修改关闭
  * @author Ghost
  * @version 1.0
  */
