@@ -1,4 +1,4 @@
-package patterns.adapter.class_adapter;
+package patterns.adapter.object_adapter;
 
 /**
  * 目标接口实现类

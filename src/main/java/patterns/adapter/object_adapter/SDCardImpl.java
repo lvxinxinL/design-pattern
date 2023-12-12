@@ -1,4 +1,4 @@
-package patterns.adapter.class_adapter;
+package patterns.adapter.object_adapter;
 
 /**
  * 适配者类
@@ -6,7 +6,7 @@ package patterns.adapter.class_adapter;
  * @author Ghost
  * @version 1.0
  */
-public class SDCardImpl implements SDCard{
+public class SDCardImpl implements SDCard {
 
 
     @Override
